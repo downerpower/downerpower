@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**downerpower/downerpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - Frontend developer from Russia based in Tbilisi;
 - Currently focused on working with React JS library;
 - Interested in everything web development related, foreign languages, and books;
