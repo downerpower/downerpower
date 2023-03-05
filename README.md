@@ -1,6 +1,6 @@
 ### <div align="center">Hi there! </div>  
 
-- Frontend developer from Russia based in Tbilisi;  
+- Frontend developer from Russia based in Saint Petersburg;  
   
 
 - Currently focused on working with React JS library;  
